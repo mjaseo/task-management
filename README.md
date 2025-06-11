@@ -22,9 +22,11 @@
     <br><br>
  8. Edit file `resources/js/api/axios.js` and specify correct `baseURL` on line 4 (`there could be a better way to do this but for the mean time`)
     <br><br>
- 9. You should be able to login in the system `http://your-local-domain.test/login`
+ 9. Run `npm run dev`
+<br><br>
+10. You should be able to login in the system `http://your-local-domain.test/login`
  - `Email: admin@example.com`
  - `Password: password`
    <br><br>
- 10. Go to the dashboard (`http://your-local-domain/dashboard`)
+Go to the dashboard (`http://your-local-domain/dashboard`)
   where in you can nagivate to <b>Manage Tasks</b> (`http://your-local-domain/tasks`) and <b>Manage Users</b> (`http://your-local-domain/users`)
