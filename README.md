@@ -14,7 +14,7 @@
  5. From the `.env` file please specify the correct database credentials
     <br><br>
  6. And make sure to specify the following:
- - `APP_URL=http://your-local-domain.test`
+ - `APP_URL=http://change-this-to-your-domain-name`
  - `FRONTEND_URL=http://localhost:5173`
  - `SANCTUM_STATEFUL_DOMAINS=localhost:5173`
    <br><br>
@@ -24,7 +24,7 @@
     <br><br>
  9. Run `npm run dev`
 <br><br>
-10. You should be able to login in the system `http://your-local-domain.test/login`
+10. You should be able to login in the system `http://your-local-domain/login`
  - `Email: admin@example.com`
  - `Password: password`
    <br><br>
