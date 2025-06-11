@@ -1,7 +1,5 @@
 # Task Management
 
----
-
 ## Setup Process
 
 ### After cloning the repository, please follow the steps below:
