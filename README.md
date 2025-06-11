@@ -1,7 +1,6 @@
 # Task Management
 
 ## Setup Process
-
 ### After cloning the repository, please follow the steps below:
 
  1. Go to the project directory
