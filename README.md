@@ -39,5 +39,7 @@ Email: admin@example.com
 Password: password
 ```
 > Dashboard: `http://your-local-domain/dashboard`
+> 
 > Manage Tasks: `http://your-local-domain/tasks`
+> 
 > Manage Users: `http://your-local-domain/users`
